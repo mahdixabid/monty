@@ -9,7 +9,8 @@ An interpreter is a program that directly executes instructions written (one by 
 ##### How to work with git submodules.
 
 ## Contribution
-<p>This is a project for Holberton School by Holberton Students. Pull requests are welcome, if you found a bug, you can report us at the email: 2730@holbertonschool.com or 2686@holbertonschool.com. Please make sure to update tests as appropriate.</p>
+<p>This is a project for Holberton School by Holberton Students. Pull requests are welcome, if you found a bug, you can report us at the email: 2730@holbertonschool.com or 2686@holbertonschool.com.
+  <br>Please make sure to update tests as appropriate.</p>
 <br>
 <hr>
 Authors
