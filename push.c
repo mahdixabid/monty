@@ -2,7 +2,6 @@
 /**
  * _push - push new node to linked list.
  * @head: linked list's head address.
- * @line_number: the line number of the monty file that we're currently reading
  * @arg: the push's corresponding arg.
  * @mode: 0 if stack and 1 if queue.
  * Return: nothing.
